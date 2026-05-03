@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# https://automaticaddison.com/the-bug2-algorithm-for-robot-motion-planning/
+
 import math
 import rclpy
 from rclpy.node import Node
