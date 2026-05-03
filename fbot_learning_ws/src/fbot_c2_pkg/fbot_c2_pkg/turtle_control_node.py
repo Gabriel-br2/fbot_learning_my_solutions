@@ -9,7 +9,8 @@ REFERENCE:
     https://automaticaddison.com/the-bug2-algorithm-for-robot-motion-planning/
 
 USAGE:
-    ros2 run <your_package> bug2_node
+    ros2 launch stage_ros2 stage.launch.py world:=cave enforce_prefixes:=false one_tf_tree:=true
+    ros2 run fbot_c2_pkg turtle_control_c2_node 
 """
 
 import math

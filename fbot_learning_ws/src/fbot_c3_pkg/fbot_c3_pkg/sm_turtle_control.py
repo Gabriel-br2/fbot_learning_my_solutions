@@ -7,7 +7,7 @@ PROJECT : ROS2 Turtlesim Challenge
 
 USAGE:
     ros2 run turtlesim turtlesim_node
-    ros2 run <your_package> yasmin_challenge
+    ros2 run fbot_c3_pkg turtle_control_c3_node 
 """
 
 import math
