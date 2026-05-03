@@ -1,0 +1,15 @@
+fbot/
+.mypy_cache/
+__pycache__/
+.venv_path
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+
+build/
+install/
+log/    
+
+Stage
+stage_ros2
